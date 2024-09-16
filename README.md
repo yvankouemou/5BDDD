@@ -12,3 +12,6 @@ Projet 5BDDD
 
 ##DESACTIVATION DE LENVIRONEMENT
 ``` desactivate
+
+##DEMARRAGE APPLICATION
+``` fastapi dev main.py
